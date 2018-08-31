@@ -1,0 +1,164 @@
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.logo{
+    width: 200px;
+    height: 50px;
+    float: left;
+  
+}
+.logo-img{
+    width: 100%;
+    height: auto;
+}
+.form_subs{
+    height: 24px;
+    width: 295px;
+    float: left;
+    margin: 15px 0 0 15px;
+}
+.form_subs form button {
+    
+   
+    width: 75px;
+    height: 22px;
+    color: #fff;
+    float: left;
+    cursor: pointer;
+    background-color: rgb(209, 66, 66);
+    border: none;
+    border-radius: 0px 5px 5px 0px;
+    text-align: center;
+    
+}
+.form_subs form input {
+    font-family: 'Gotham', sans-serif;
+    width: 215px;
+    height: 22px;
+    float: left;
+    overflow: hidden;
+    margin-left: 2px;
+    border-radius: 5px 0px 0px 5px;
+}
+.links {
+    width: 434px;
+    float: right;
+    overflow: hidden;
+}
+.links a {
+    font: 700 10px/22px Tahoma;
+    color: #000;
+    text-indent: 30px;
+    margin: 4px 0 0 4px;
+}
+.icon-game{
+    background-image: url(https://dantricdn.com/web_images/khcn.jpg);
+    height: 22px;
+    width: 93px;
+}
+.icon-work, .icon-ads, .icon-game, .icon-bussiness, .icon-humane, .icon-forum, .icon-home, .icon-event, .icon-detail, .icon-rss, .icon-rss2, .icon-yahoo, .icon-google, .icon-facebook, .icon-twitter, .icon-twitter2, .icon-linkhay, .icon-like, .icon-facebook2, .icon-1000y, .icon-ecard, .icon-english, .icon-tuanbao, .icon-rssfeed {
+    float: left;
+    overflow: hidden;
+}
+.icon-ads {
+    background-image: url(/App_Themes/Default/Images/dantri_sprite3.png);
+    background-position: -77px -44px;
+    height: 22px;
+    width: 80px;
+   
+}
+.icon-duhoc {
+    background-image: url(/App_Themes/Default/Images/dantri_sprite3.png);
+    float: left;
+    overflow: hidden;
+    background-position: -0 -44px;
+    height: 22px;
+    width: 74px;
+    float: left;
+}
+.icon-tuyensinh {
+    background-image: url(/App_Themes/Default/Images/dantri_sprite3.png);
+    float: left;
+    overflow: hidden;
+    background-position: -77px -66px;
+    height: 22px;
+    width: 89px;
+    float: left;
+}
+.icon-tuanbao2 {
+    background: url(/App_Themes/Default/Images/dantri_sprite3.png) no-repeat;
+    float: left;
+    text-indent: 25px!important;
+    background-position: -0 -0;
+    height: 22px;
+    width: 77px;
+    float: left;
+}
+.icon-bussiness {
+    background-image: url(/App_Themes/Default/Images/dantri_sprite3.png);
+    background-position: -166px -22px;
+    height: 22px;
+    width: 93px;
+    float: left;
+}
+.icon-humane2 {
+    background-image: url(/App_Themes/Default/Images/dantri_sprite3.png);
+    float: left;
+    overflow: hidden;
+    background-position: -0 -90px;
+    height: 22px;
+    width: 74px;
+    float: left;
+}
+.icon-giaitri {
+    background: url(/App_Themes/Default/Images/dantri_sprite3.png) no-repeat;
+    float: left;
+    background-position: -77px -22px;
+    height: 22px;
+    width: 80px;
+    float: left;
+}
+.icon-forum2 {
+    background-image: url(/App_Themes/Default/Images/dantri_sprite3.png);
+    float: left;
+    overflow: hidden;
+    background-position: -77px -0;
+    height: 22px;
+    width: 89px;
+    float: left;
+}
+.icon-tienganh {
+    background: url(/App_Themes/Default/Images/dantri_sprite3.png) no-repeat;
+    float: left;
+    background-position: -0 -22px;
+    height: 22px;
+    width: 77px;
+    float: left;
+}
+.list_  ul{
+    list-style-type: none;
+	padding: 0;
+    margin: 0;
+}
+
+.list_ li.menu-home {
+    background: url(/App_Themes/Default/Images/menu-saparator.png) right bottom no-repeat;
+    height: 27px;
+}
+.list_ li {
+    float: left;
+    
+}
+.list_ a {
+    font-size: 11px;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: #004175;;
+    
+}
