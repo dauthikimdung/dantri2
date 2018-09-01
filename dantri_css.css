@@ -146,9 +146,11 @@
 .container-fluid a{
     font-size: 10px;
 }
+@media (min-width:768px) {
 .navbar-nav>li>a {
     padding-top: 11px;
     padding-bottom: 10px;
+}
 }
 .title_{
     font-family:"Times New Roman",Georgia,Times;
@@ -171,18 +173,38 @@
     background-color: red;
 }
 .ul1{
+  
     list-style-type: none;
 }
 .ul1 a{
     color: #004175;
     font: 500 12px/15px Arial;
     text-align:left;
+    display: block;
 }
-.section2 img, .section2 span{
+.section2 img, .section2{
     float:left;
 
 }
 .section2 span{
     color: black;
-    font-size: 6px;
+    font-size: 12px;
+    text-align:left;
+    display: block;
+    
+}
+.part2{
+    margin-top:20px;
+}
+.img_{
+    margin-bottom: 10px;
+
+}
+.img1{
+float:left;
+}
+.footer-content{
+    color:black;
+    text-align: left;
+    background-color: aquamarine;
 }
