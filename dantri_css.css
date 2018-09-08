@@ -63,82 +63,86 @@
     overflow: hidden;
 }
 .icon-ads {
-    background-image: url(/App_Themes/Default/Images/dantri_sprite3.png);
-    background-position: -77px -44px;
+    background-image: url(account.png);
+   
     height: 22px;
     width: 80px;
    
 }
 .icon-duhoc {
-    background-image: url(/App_Themes/Default/Images/dantri_sprite3.png);
+    background-image: url(dongho.png);
     float: left;
     overflow: hidden;
-    background-position: -0 -44px;
+   
     height: 22px;
     width: 74px;
     float: left;
 }
 .icon-tuyensinh {
-    background-image: url(/App_Themes/Default/Images/dantri_sprite3.png);
+    background-image: url(tuyensinh.png);
     float: left;
     overflow: hidden;
-    background-position: -77px -66px;
+   
     height: 22px;
     width: 89px;
     float: left;
 }
 .icon-tuanbao2 {
-    background: url(/App_Themes/Default/Images/dantri_sprite3.png) no-repeat;
+    background: url(fica.png) ;
     float: left;
-    text-indent: 25px!important;
-    background-position: -0 -0;
+    text-indent: 25px;
+    
     height: 22px;
     width: 77px;
     float: left;
 }
 .icon-bussiness {
-    background-image: url(/App_Themes/Default/Images/dantri_sprite3.png);
-    background-position: -166px -22px;
+    background-image: url(nhanai.png);
+  
     height: 22px;
     width: 93px;
     float: left;
 }
 .icon-humane2 {
-    background-image: url(/App_Themes/Default/Images/dantri_sprite3.png);
+    
     float: left;
     overflow: hidden;
-    background-position: -0 -90px;
+    background: url(nhanai.png);
     height: 22px;
     width: 74px;
     float: left;
 }
 .icon-giaitri {
-    background: url(/App_Themes/Default/Images/dantri_sprite3.png) no-repeat;
+    background: url(doisong.png);
     float: left;
-    background-position: -77px -22px;
+   
     height: 22px;
     width: 80px;
     float: left;
 }
 .icon-forum2 {
-    background-image: url(/App_Themes/Default/Images/dantri_sprite3.png);
+    background-image: url(account.png);
     float: left;
     overflow: hidden;
-    background-position: -77px -0;
+    
     height: 22px;
     width: 89px;
     float: left;
 }
 .icon-tienganh {
-    background: url(/App_Themes/Default/Images/dantri_sprite3.png) no-repeat;
+    background: url(sach.png);
     float: left;
-    background-position: -0 -22px;
+   
     height: 22px;
     width: 77px;
     float: left;
 }
-.list_{
-    padding-top:80px;
+.article{
+    padding-top:70px;
+}
+.article img{
+    width: 100%;
+    height: auto;
 }
 .navbar{
     background-color: blue;
@@ -187,11 +191,11 @@
 
 }
 .section2 span{
-    color: black;
+    color: rgb(31, 147, 189);
     font-size: 12px;
     text-align:left;
     display: block;
-    
+    margin-left: 15px;
 }
 .part2{
     margin-top:20px;
